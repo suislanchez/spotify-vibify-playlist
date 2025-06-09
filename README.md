@@ -1,7 +1,7 @@
 # spotify-vibify-playlist
 
 
-🎧 Vibeify — Playlist Generator for Any Mood, Niche, or Stereotype
+ Vibeify — Playlist Generator for Any Mood, Niche, or Stereotype
 <img width="568" alt="Screenshot 2025-06-08 at 10 29 39 PM" src="https://github.com/user-attachments/assets/02b7f2fa-35b6-41ac-8499-4740825a77cd" />
 
 
@@ -12,7 +12,7 @@ Whether you’re a “Main Character Girl”, a guy with rings but no job, or ju
 
 ⸻
 
-🔍 How It Works
+ How It Works
 	1.	TYPE IN A PHRASE / VIBE
 e.g.
 -male manipulator music
@@ -26,20 +26,20 @@ e.g.
 Auto-generated, fresh, & spiritually accurate.
 	3.	VIBE CHECK: SEE IF IT’S RIGHT
 Don’t like it?
-👉 REMIX and get a more specific version.
+REMIX and get a more specific version.
 	4.	SHARE YOUR PLAYLIST
 Post it, flex it, or send it anonymously to your situationship.
 
 ⸻
 
-🚫 BANNED ARTISTS
+ BANNED ARTISTS
 
 
 No Ed Sheeran. No Kanye etc, ban any artists from showing up on generated playlists
 
 ⸻
 
-🔁 Advanced Filters
+ Advanced Filters
 	•	Limit number of songs per artist
 	•	Exclude explicit songs
 	•	Keep it clean / keep it filthy
@@ -48,7 +48,7 @@ No Ed Sheeran. No Kanye etc, ban any artists from showing up on generated playli
 
 ⸻
 
-💡 Inspiration Examples
+ Inspiration Examples
 	•	____ (GENRE) FROM ______ (CITY, STATE, COUNTRY, REGION ETC)
   •	SONGS FROM ARTISTS LIKE ______ (ARTIST)
   •	SONGS LIKE ____ (SONG) BUT ____ (MOOD, BE SPECIFIC, ANYTHING)
@@ -65,7 +65,7 @@ No Ed Sheeran. No Kanye etc, ban any artists from showing up on generated playli
 
 ⸻
 
-🔥 Top Features
+ Top Features
 	•	Funny, weird, specific vibe-to-playlist mapping
 	•	Top Searches leaderboard
 	•	Community-made playlist vibe prompts
@@ -91,7 +91,7 @@ I might adda
 
 
 
-🛠 Dev Notes
+ Dev Notes
 	•	Built using Spotify API + vibe NLP matcher with Open AI GPT4o with web search
 	•	Filtering logic supports artist limits, decade bounds, explicit tag matching
 	•	Integrates with user’s existing Spotify library for de-duping
