@@ -15,7 +15,7 @@ Type a vibe, phrase, era, be specific as you want. Get a playlist. Share it. Rep
 ⸻
 
  How It Works
-	1.	TYPE IN A PHRASE / VIBE
+	1.	TYPE IN A PHRASE / VIBE.
 e.g.
 -male manipulator music
 -Songs that sound like the color #D4AF37
