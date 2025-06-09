@@ -6,9 +6,9 @@
 
 
 
-Type a vibe. Get a playlist. Share it. Repeat.
+Type a vibe, phrase, era, be specific as you want. Get a playlist. Share it. Repeat.
 
-Whether you’re a “Main Character Girl”, a guy with rings but no job, or just “a bit happy but please no ‘Happy’ by Pharrell”, this app gets you. Describe who you are (or who you’re trying to be) and get a playlist that nails the energy.
+
 
 ⸻
 
