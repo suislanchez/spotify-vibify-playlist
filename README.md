@@ -2,6 +2,8 @@
 
 
  Vibeify — Playlist Generator for Any Mood, Niche, or Stereotype
+
+ 
 <img width="568" alt="Screenshot 2025-06-08 at 10 29 39 PM" src="https://github.com/user-attachments/assets/02b7f2fa-35b6-41ac-8499-4740825a77cd" />
 
 
